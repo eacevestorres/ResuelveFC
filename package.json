@@ -3,8 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "sueldoCompleto.js",
-  "scripts": {},
+  "scripts": {
+    "test": "jest"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
 }

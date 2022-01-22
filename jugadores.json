@@ -44,7 +44,7 @@
          "goles":9,
          "sueldo":30000,
          "bono":15000,
-         "sueldo_completo": 14250,
+         "sueldo_completo": null,
          "equipo":"rojo"
       }
     ]
