@@ -73,4 +73,6 @@ typings/
 .serverless
 
 # FuseBox cache
+.gitignore
+.gitattributes
 .fusebox/
